@@ -1,0 +1,3 @@
+Database name - cms
+tables - admin
+	contact_details
